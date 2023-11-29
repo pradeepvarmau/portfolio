@@ -272,7 +272,7 @@ body{
   /*-----------------------------------  home page ---------------------------------------------*/
 
   .home-div{
-    background: rgba(0,0,0,0.8)url("../img/Screenshot\ 2023-06-08\ 094842.png");
+    background: rgba(0,0,0,0.8)url("Screenshot\ 2023-06-08\ 094842.png");
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
@@ -594,12 +594,12 @@ margin-bottom: 10px;
   margin-bottom: 120px;
 }
 .bg-dp{
-  background: rgba(0,0,0,0.8) url("../img/Screenshot\ 2023-06-08\ 094842.png");
+  background: rgba(0,0,0,0.8) url("Screenshot\ 2023-06-08\ 094842.png");
   background-size: cover;
   background-blend-mode: darken;
 }
 .work-div{
-    background: rgba(0,0,0,0.8) url("../img/Screenshot\ 2023-06-08\ 094842.png");
+    background: rgba(0,0,0,0.8) url("Screenshot\ 2023-06-08\ 094842.png");
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
